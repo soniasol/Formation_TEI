@@ -1,2 +1,3 @@
 # Formation_TEI
-Initiation à XML-TEI - Février 2025
+Initiation à l'encodage XML-TEI
+Lausanne, février 2025
