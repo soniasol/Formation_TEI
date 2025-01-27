@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Titre du texte électronique.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Informations concernant la publication ou la distribution d'un texte électronique.
+                    Pas forcément dans la balise "p", mais au moins une balise est attendue.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>La ou les sources à partir desquelles un texte électronique a été dérivé ou généré.
+                    Pas forcément dans la balise "p", mais au moins une balise est attendue.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Contenu du texte électronique. 
+                Pas forcément dans la balise "p", mais au moins une balise est attendue.</p>
+        </body>
+    </text>
+</TEI>

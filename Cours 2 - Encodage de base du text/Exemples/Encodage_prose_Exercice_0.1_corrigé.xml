@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Définition de TEI.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exemple pour un cours d'initiation à l’encodage XML-TEI.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Burnard, Lou. Qu’est-ce que la Text Encoding Initiative ?. Traduit par Marjorie Burghart, OpenEdition Press, 2015, https://doi.org/10.4000/books.oep.1237.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb/>
+            <p>
+                <lb/>La « <hi rend="italic">Text Encoding Initiative</hi> » (TEI) est l’un des projets les plus durables et influents du champ aujourd’hui 
+                <lb/>appelé « humanités numériques ». Son but est de fournir des recommandations pour la création et la 
+                <lb/>gestion sous forme numérique de tout type de données créées et utilisées par les chercheurs en sciences 
+                <lb/>humaines, comme les sources historiques, les manuscrits, les documents d’archives, les inscriptions 
+                <lb/>anciennes et bien d’autres.
+            </p>
+        </body>
+    </text>
+</TEI>

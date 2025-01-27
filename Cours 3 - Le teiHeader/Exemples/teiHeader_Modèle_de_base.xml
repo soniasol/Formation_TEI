@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <!-- <teiHeader> du projet SETAF (https://www.unige.ch/setaf/), version simple. Exercice pour un cours d'initiation à l’encodage XML-TEI. -->
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titre bref. Lieu : imprimeur, date.</title>
+            <respStmt>
+               <resp>Tâche(s).</resp>
+               <persName xml:id="INITIALES">
+                  <forename>Prénom</forename>
+                  <surname>Nom</surname>
+                  <ptr type="orcid" target="x"/>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Projet SETAF</publisher>
+            <authority>Institut Histoire de la Réformation (IHR),
+               université de Genève</authority>
+            <address>
+               <addrLine>22 boulevard des Philosophes</addrLine>
+               <addrLine>CH-1211 Genève</addrLine>
+            </address>
+            <availability status="restricted" n="CC-BY">
+               <licence
+                  target="https://creativecommons.org/licenses/by/4.0/"/>
+               <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
+            </availability>
+            <date when="0000-00-00"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier xml:id="x">
+                  <country>Pays</country>
+                  <settlement>Ville</settlement>
+                  <institution>Bibliothèque</institution>
+                  <idno type="shelfmark">Cote</idno>
+               </msIdentifier>
+               <msContents>
+                  <p>
+                     <biblStruct>
+                        <monogr>
+                           <author>
+                              <persName ref="isni:x">
+                                 <surname>Nom</surname>
+                                 <forename>Prénom</forename>
+                              </persName>
+                           </author>
+                           <title type="complete_title">Titre entier</title> 
+                           <title type="short_title">Titre bref</title>
+                           <imprint>
+                              <pubPlace ref="geonames:x">Lieu de publication</pubPlace>
+                              <respStmt>
+                                 <resp>Imprimeur</resp>
+                                 <persName ref="isni:x">
+                                    <surname>Nom</surname>
+                                    <forename>Prénom</forename>
+                                 </persName>
+                              </respStmt>
+                              <date>Date de publication</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </p>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

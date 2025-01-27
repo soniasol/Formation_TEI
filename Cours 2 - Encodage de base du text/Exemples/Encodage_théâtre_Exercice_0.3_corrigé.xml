@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Andromaque, tragédie [par J. Racine].</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exemple pour un cours d'initiation à l’encodage XML-TEI.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>https://gallica.bnf.fr/ark:/12148/btv1b8610810z, f. 19.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <sp>
+                <speaker>HERMIONNE</speaker> <stage>ſeule.</stage>
+                <l>Ov ſuis-je ? Qu’ay-je fait ? Que dois-je faire encore ?</l>
+                <l>Quel tranſport me ſaiſit ? Quel chagrin me deuore ?</l>
+                <l>Errante, &amp; ſans deſſein, ie cours dans ce Palais.</l>
+            </sp>
+        </body>
+    </text>
+</TEI>

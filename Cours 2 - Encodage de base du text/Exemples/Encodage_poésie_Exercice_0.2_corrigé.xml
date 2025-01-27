@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le poème de l'Anneau.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exemple pour un cours d'initiation à l’encodage XML-TEI.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Le Seigneur des Anneaux, La Fraternité de l'Anneau.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg>
+                <l n="1">Trois Anneaux pour les rois elfes sous le ciel,</l>
+                <l n="2">Sept pour les seigneurs nains dans leurs demeures de pierre,</l>
+                <l n="3">Neuf pour les hommes mortels destinés au trépas,</l>
+                <l n="4">Un pour le Seigneur des Ténèbres sur son sombre trône,</l>
+                <l n="5">Au pays de Mordor où s'étendent les ombres</l>
+                <l n="6">Un Anneau pour les gouverner tous</l>
+                <l n="7">Un Anneau pour les trouver</l>
+                <l n="8">Un Anneau pour les amener tous,</l>
+                <l n="9">Et dans les ténèbres les lier</l>
+                <l n="10">Au pays de Mordor où s'étendent les ombres.</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

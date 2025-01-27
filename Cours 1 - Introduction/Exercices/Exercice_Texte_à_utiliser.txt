@@ -1,0 +1,10 @@
+Exercice - Texte à utiliser
+
+
+Définition de TEI.
+
+Exercice pour un cours d'initiation à l’encodage XML-TEI.
+
+Burnard, Lou. Qu’est-ce que la Text Encoding Initiative ?. Traduit par Marjorie Burghart, OpenEdition Press, 2015, https://doi.org/10.4000/books.oep.1237.
+
+La « Text Encoding Initiative » (TEI) est l’un des projets les plus durables et influents du champ aujourd’hui appelé « humanités numériques ». Son but est de fournir des recommandations pour la création et la gestion sous forme numérique de tout type de données créées et utilisées par les chercheurs en sciences humaines, comme les sources historiques, les manuscrits, les documents d’archives, les inscriptions anciennes et bien d’autres.

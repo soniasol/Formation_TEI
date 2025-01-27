@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Amours de P. de Ronsard Vandomoys. Ensemble le cinquiesme de ses Odes.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exercice pour un cours d'initiation à l’encodage XML-TEI.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>https://gallica.bnf.fr/ark:/12148/bpt6k10406040, p.5.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+        </body>
+    </text>
+</TEI>
