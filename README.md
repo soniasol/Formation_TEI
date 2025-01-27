@@ -29,11 +29,11 @@ Partie II
 
 Partie III
 
-Cours 10 : encoder une édition critique
+- Cours 10 : encoder une édition critique
 
-Cours 11 : encoder des fac-similés
+- Cours 11 : encoder des fac-similés
 
-Cours 12 : encoder des données linguistiques
+- Cours 12 : encoder des données linguistiques
 
 
 ## Comment citer ce dépôt GitHub :
