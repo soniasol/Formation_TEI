@@ -11,20 +11,15 @@ Partie I
 - Cours 2 : l'encodage de base du text
 - Cours 3 : le teiHeader
 - Cours 4 : les entitées nommées
-- Cours 5 : l'intervention éditoriale
-- Cours 6 : la mise en page
+- Cours 5 : l'intervention éditoriale et la mise en page
+- Cours 6 : créer un schéma TEI personnalisé (ODD)
 
 Partie II
 
 - Cours 7 : du XML-TEI au HTML via XSLT
-- Cours 8 : créer un schéma personnalisé (ODD)
-- Cours 9 : la fouille du texte avec xPath
-
-Partie III
-
-- Cours 10 : encoder une édition critique
-- Cours 11 : encoder des fac-similés
-- Cours 12 : encoder des données linguistiques
+- Cours 8 : la fouille du texte avec xPath
+- Cours 9 : encoder une édition critique
+- Cours 10 : encoder des fac-similés
 
 
 ## Comment citer ce dépôt GitHub :
