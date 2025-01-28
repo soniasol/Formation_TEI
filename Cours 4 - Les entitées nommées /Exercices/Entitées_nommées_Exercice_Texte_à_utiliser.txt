@@ -1,0 +1,16 @@
+Exercice - Texte à utiliser
+
+
+L'université de Lausanne et le prix Nobel.
+
+Source : https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Lausanne
+
+
+L’université de Lausanne (UNIL) est une université située dans le canton de Vaud, en Suisse. Elle est répartie sur plusieurs sites, avec un campus principal dans la campagne de Dorigny à Écublens. Depuis 1901, date de la création du Prix Nobel, sept de ses lauréats peuvent être mis en relation avec l'université de Lausanne :
+- Hans Fischer, lauréat du prix Nobel de chimie en 1930 ;
+- Corneille Jean François Heymans, lauréat du prix Nobel de médecine en 1938 ;
+- Walter Rudolf Hess, lauréat du prix Nobel de médecine en 1949 ;
+- Rolf M. Zinkernagel, lauréat du prix Nobel de médecine en 1996 ;
+- Ahmed H. Zewail, lauréat du prix Nobel de chimie en 1999 ;
+- Jean Tirole, lauréat du prix Nobel d'économie en 2014 ;
+- Jacques Dubochet, lauréat du prix Nobel de chimie.

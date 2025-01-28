@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Encodez les entitées nommées du texte indiqué. -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'université de Lausanne et le prix Nobel.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exercice pour un cours d'initiation à l’encodage XML-TEI.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Lausanne</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p></p>
+        </body>
+    </text>
+</TEI>
