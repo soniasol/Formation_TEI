@@ -17,8 +17,8 @@ Partie I
 Partie II
 
 - Cours 7 : créer un ODD (One Document Does it all)
-- Cours 8 : du XML-TEI au HTML via XSLT
-- Cours 9 : CSS (Cascading Style Sheets)
+- Cours 8 : HTML et CSS (Cascading Style Sheets)
+- Cours 9 : du XML-TEI au HTML via XSLT (eXtensible Stylesheet Language Transformations)
 - Cours 10 : la fouille du texte avec xPath
 
 Partie III
