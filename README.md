@@ -2,6 +2,8 @@
 
 Formation de deux jours, Lausanne, février 2025, Sonia Solfrini et Simon Gabay (Université de Genève).
 
+N.B. : Ce dépôt GitHub est en cours de construction et sera complété prochainement.
+
 
 ## Plan de la formation :
 
