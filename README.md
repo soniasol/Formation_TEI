@@ -23,6 +23,8 @@ N.B. : Ce dépôt GitHub est en cours de construction et sera complété prochai
 - Encoder une édition critique ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_09))
 - Encoder des fac-similés ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_13))
 
+- Publier son édition avec TEI Publisher : [formation CUSO, 23 et 24 juin 2025](https://numerique.cuso.ch/?id=7010&tx_displaycontroller[showUid]=7905).
+
 
 ## Comment citer ce dépôt GitHub :
 
