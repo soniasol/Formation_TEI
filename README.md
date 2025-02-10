@@ -16,7 +16,7 @@ N.B. : Ce dépôt GitHub est en cours de construction et sera complété prochai
 
 ## Pour aller plus loin :
 
-- Vers la publication web
+- Vers la publication web : HTML et CSS
 - Du XML-TEI au HTML via XSLT
 - La fouille du texte avec XPath
 - Encoder une édition critique
