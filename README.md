@@ -15,7 +15,7 @@ Formation de deux jours, Lausanne, février 2025, Sonia Solfrini et Simon Gabay 
 
 ## [Pour aller plus loin](https://github.com/soniasol/Formation_TEI/tree/main/Pour_aller_plus_loin) :
 
-- Vers la publication web : HTML et CSS ([lien externe](https://github.com/gabays/Cours_2021_09_Metz/tree/master/TEI_4))
+- Vers la publication web : HTML et CSS ([lien externe 1](https://github.com/gabays/Cours_2021_09_Metz/tree/master/TEI_4) et [2](https://github.com/gabays/32M7127/tree/master/Cours_11))
 - Du XML-TEI au HTML via XSLT ([lien externe](https://github.com/gabays/Cours_2021_09_Metz/tree/master/TEI_5))
 - La fouille du texte avec XPath ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_10))
 - OCR et éditions numériques ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_13))
