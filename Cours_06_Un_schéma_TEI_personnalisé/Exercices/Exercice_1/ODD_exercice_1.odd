@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- Cliquez sur la clé à molette (Configure Transformation Scenario) et créez un fichier HTML de cet ODD en sélectionnant TEI ODD XHTML. -->
+<!-- Cliquez sur la clé à molette (Configure Transformation Scenario) et créez un fichier RNG de cet ODD en sélectionnant TEI ODD to RELAX NG XML. -->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:sch="http://purl.oclc.org/dsdl/schematron">
