@@ -14,13 +14,14 @@ N.B. : Ce dépôt GitHub est en cours de construction et sera complété prochai
 - Cours 5 : l'intervention éditoriale et la mise en page
 - Cours 6 : un schéma TEI personnalisé
 
+
 ## Pour aller plus loin :
 
 - Vers la publication web : HTML et CSS
 - Du XML-TEI au HTML via XSLT
 - La fouille du texte avec XPath
 - Encoder une édition critique
-- Encoder des fac-similés
+- [Encoder des fac-similés](https://github.com/soniasol/Formation_TEI/tree/main/Pour_aller_plus_loin) ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_13))
 
 
 ## Comment citer ce dépôt GitHub :
