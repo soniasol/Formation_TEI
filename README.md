@@ -17,10 +17,10 @@ N.B. : Ce dépôt GitHub est en cours de construction et sera complété prochai
 
 ## [Pour aller plus loin](https://github.com/soniasol/Formation_TEI/tree/main/Pour_aller_plus_loin) :
 
-- Vers la publication web : HTML et CSS
-- Du XML-TEI au HTML via XSLT
-- La fouille du texte avec XPath
-- Encoder une édition critique
+- Vers la publication web : HTML et CSS ([lien externe](https://github.com/gabays/Cours_2021_09_Metz/tree/master/TEI_4))
+- Du XML-TEI au HTML via XSLT ([lien externe](https://github.com/gabays/Cours_2021_09_Metz/tree/master/TEI_5))
+- La fouille du texte avec XPath ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_10))
+- Encoder une édition critique ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_09))
 - Encoder des fac-similés ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_13))
 
 
