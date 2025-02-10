@@ -20,8 +20,6 @@ Formation de deux jours, Lausanne, février 2025, Sonia Solfrini et Simon Gabay 
 - La fouille du texte avec XPath ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_10))
 - Encoder une édition critique ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_09))
 - Encoder des fac-similés ([lien externe](https://github.com/gabays/32M7127/tree/master/Cours_13))
-
-
 - Publier son édition avec TEI Publisher : [formation CUSO, 23 et 24 juin 2025](https://numerique.cuso.ch/?id=7010&tx_displaycontroller[showUid]=7905).
 
 
