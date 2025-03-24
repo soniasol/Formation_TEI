@@ -13,8 +13,8 @@ Formation de deux jours, Lausanne, février 2025, Sonia Solfrini et Simon Gabay 
 - Cours 6 : un schéma TEI personnalisé
 
 ## Exemples de corpus numériques encodés en TEI :
-- ([Epistemon des Bibliothèques Virtuelles Humanistes](https://www.bvh.univ-tours.fr/Epistemon/index.asp) ;
-- ([Démêler le cordel (2020-2024) de l'Université de Genève](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html).
+- [Epistemon des Bibliothèques Virtuelles Humanistes](https://www.bvh.univ-tours.fr/Epistemon/index.asp) ;
+- [Démêler le cordel (2020-2024) de l'Université de Genève](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html).
 
 ## [Pour aller plus loin](https://github.com/soniasol/Formation_TEI/tree/main/Pour_aller_plus_loin) :
 
