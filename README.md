@@ -1,6 +1,6 @@
 # Initiation à l'encodage XML-TEI
 
-Formation de deux jours, Lausanne, février 2025, Sonia Solfrini et Simon Gabay (Université de Genève).
+Formation de deux jours, Lausanne, 11-12 février 2025, Sonia Solfrini et Simon Gabay (Université de Genève).
 
 
 ## Plan de la formation :
