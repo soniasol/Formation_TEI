@@ -6,8 +6,8 @@ Formation de deux jours, Lausanne, 11-12 février 2025, Sonia Solfrini et Simon 
 ## Plan de la formation :
 
 - Cours 1 : introduction
-- Cours 2 : l'encodage de base du text
-- Cours 3 : le teiHeader
+- Cours 2 : l'encodage de base du <text>
+- Cours 3 : le <teiHeader>
 - Cours 4 : les entitées nommées
 - Cours 5 : l'intervention éditoriale et la mise en page
 - Cours 6 : un schéma TEI personnalisé
